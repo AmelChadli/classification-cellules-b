@@ -1,6 +1,7 @@
 # Classification des lymphocytes B
 
 Ce répertoire contient :
+- un Makefile
 - le fichier principal readLineage.cpp
 - le fichier d'en-tête readLineage.h
 - le fichier struct-lineage.h contenant les structures et constantes qui seront nécessaires
