@@ -8,4 +8,4 @@ Ce répertoire contient :
 
 Tous ces fichiers seront ajoutés [ KMeansSuperTreeClustering ](https://github.com/tahiri-lab/KMeansSuperTreeClustering).
 
-Le poster produit dans le cadre de la Journée Frncophone des Femmes en Informatique est également mis à disposition.
+Le poster, produit dans le cadre de la Journée Frncophone des Femmes en Informatique, est également mis à disposition.
